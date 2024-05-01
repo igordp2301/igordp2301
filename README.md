@@ -1,4 +1,4 @@
-# Olá,  me cha Igor Pereira!👋
+# Olá,  me chamo Igor Pereira!👋
 
 
 <!--
